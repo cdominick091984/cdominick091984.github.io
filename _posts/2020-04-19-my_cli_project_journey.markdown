@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My CLI Project Journey"
-date:       2020-04-19 12:47:00 +0000
+date:       2020-04-19 08:47:01 -0400
 permalink:  my_cli_project_journey
 ---
 
